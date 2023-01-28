@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+@import url("form.css");
+@import url("body.css");
+@import url("link.css");

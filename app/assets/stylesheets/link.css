@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(6, 22, 170);
+}
+
+a:hover {
+  color: rgb(76, 140, 200);
+}
